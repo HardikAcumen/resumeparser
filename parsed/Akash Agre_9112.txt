@@ -1,0 +1,102 @@
+```json
+{
+  "personalInfo": {
+    "name": "Akash Agre",
+    "email": "akashagre327@gmail.com",
+    "phone": "+91 89833 99417",
+    "summary": ""
+  },
+  "links": {
+    "linkedin": "www.linkedin.com/in/akash-agre-ecs-engg",
+    "github": "https://github.com/AkashAgre9",
+    "portfolio": "",
+    "otherProfessionalLinks": []
+  },
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "skills": [
+        "C",
+        "C++",
+        "Java",
+        "Python",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "category": "Database",
+      "skills": [
+        "PostgreSQL",
+        "MySQL"
+      ]
+    }
+  ],
+  "workExperience": [],
+  "projects": [
+    {
+      "name": "Hateful Content Identifier on social media",
+      "description": "A ML based application to classify whether a given image or text is hateful or not. This program uses OCR (Optical Character Recogniton) to extract the text and knowledge graph to check the severity of the image to determine whether the content is hateful or not.",
+      "role": "",
+      "startDate": "August 2022",
+      "endDate": "",
+      "duration": "",
+      "technologies": [],
+      "link": "",
+      "achievements": []
+    },
+    {
+      "name": "Voice Assistant",
+      "description": "A Python based application which can execute voice commands. It can play music, provide news which user wants, mail and generate invitations for any event and answer to any random question asked.",
+      "role": "",
+      "startDate": "February 2022",
+      "endDate": "",
+      "duration": "",
+      "technologies": [],
+      "link": "",
+      "achievements": []
+    },
+    {
+      "name": "Password Manager",
+      "description": "A JDBC (Java Database Connectivity) based application which can store passwords given to different applications by a specific user in a private database which can be accessed by the user themselves.",
+      "role": "",
+      "startDate": "August 2021",
+      "endDate": "",
+      "duration": "",
+      "technologies": [],
+      "link": "",
+      "achievements": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Fr. Conceicao Rodrigues College of Engineering",
+      "degree": "B.E.",
+      "fieldOfStudy": "Electronics and Computer Science Engineering",
+      "graduationDate": "2024",
+      "gpa": "8.42 (Up to Sem V)",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "D G Ruparel College",
+      "degree": "HSC",
+      "fieldOfStudy": "Maharashtra State Board",
+      "graduationDate": "2020",
+      "gpa": "66%",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "Shri Madhavrao Bhagwat High School",
+      "degree": "SSC",
+      "fieldOfStudy": "Maharashtra State Board",
+      "graduationDate": "2018",
+      "gpa": "91.80%",
+      "relevantCoursework": []
+    }
+  ],
+  "certifications": [],
+  "languages": [],
+  "awards": [],
+  "publications": []
+}
+```

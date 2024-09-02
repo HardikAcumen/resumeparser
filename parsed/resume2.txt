@@ -1,0 +1,109 @@
+```json
+{
+  "personalInfo": {
+    "name": "Hardik Prajapati",
+    "email": "hardikprajapati7843@gmail.com",
+    "phone": "7715891774Malad(E),Mumbai–97",
+    "location": {
+      "city": "Mumbai",
+      "state": "None (abbreviated as MH)",
+      "country": "India"
+    },
+    "summary": "Aiming to actively participate in the reputed organization, contribute to solving complex problems, and to make significant strides in my journey to professional development."
+  },
+  "links": {
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "otherProfessionalLinks": []
+  },
+  "skills": [
+    {
+      "category": "Soft/NonTechSkills",
+      "skills": ["Communication-Pitching", "Proposals", "Analytical Thinking", "Teamwork", "Research+Cold Mailing"]
+    },
+    {
+      "category": "TechnicalSkills",
+      "skills": ["Microsoft Office", "Canva", "Tableau"]
+    },
+    {
+      "category": "Certifications",
+      "skills": ["DD National Robocon 2022", "KPMG AU Analytics", "Intermediate ML", "Cognitive workshop", "Virtual Internship", "Stepping into Deep Learning"]
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "Fr. Conceicao Rodrigues College of Engineering",
+      "position": "Team Manager at Robocon CRCE",
+      "location": "CrCE",
+      "startDate": "August 2022",
+      "endDate": "Present",
+      "duration": "Present",
+      "responsibilities": [
+        "Managing Contents on website and Instagram account",
+        "Secured various Valuable Monetary & In-kind Sponsorship deals for Team, by initiating cold mailing",
+        "Represented college in the DD National Robocon 2022 till Final Stage of the competition",
+        "As a Senior team we planned & executed the entire recruitment drive for the upcoming year",
+        "Served as a technical assistant during the workshop Stepping into Robotics, and helped participating students"
+      ],
+      "achievements": [
+        "Achieved All India Rank 9 in National Robocon among 120+ teams nationwide organized by Doordarshan.",
+        "Qualified level 1 of Flipkart Grid 3.0, under 46 qualifying teams out of 9000+ participating teams."
+      ]
+    },
+    {
+      "company": " ",
+      "position": "Facilitated sponsorships",
+      "location": " ",
+      "startDate": " ",
+      "endDate": " ",
+      "duration": " ",
+      "responsibilities": [
+        "Facilitated sponsorship with PSPLaser Tech, a leading provider of manufacturing services, for mutual promotion. Received lasercuttings services in return (Link)",
+        "Secured sponsorship from Altium, a prominent circuit design software company, for promotional exposure on websites. Obtained software license as sponsorship benefit (Link)"
+      ],
+      "achievements": []
+    }
+  ],
+  "projects": [],
+  "education": [
+    {
+      "institution": "Fr. Conceicao Rodrigues College of Engineering",
+      "degree": "Bachelor's (Year 3 or 2nd year of final year of B.E or B.Tech/",
+      "fieldOfStudy": "Electronics & Computer Science",
+      "graduationDate": "2020-present",
+      "gpa": "8.48",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "SV International School and Jr College",
+      "degree": "HSC",
+      "fieldOfStudy": "General Science",
+      "graduationDate": "February 2020",
+      "gpa": "76%",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "Navjeevan Vidyalaya High School",
+      "degree": "SSC",
+      "fieldOfStudy": " ",
+      "graduationDate": "March 2018",
+      "gpa": "84%",
+      "relevantCoursework": []
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "Hindi",
+      "proficiency": "Professional Working Proficiency"
+    },
+    {
+      "language": "English",
+      "proficiency": "Professional Working Proficiency"
+    }
+  ],
+  "awards": [],
+  "publications": []
+}
+```

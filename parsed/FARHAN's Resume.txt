@@ -1,0 +1,152 @@
+```json
+{
+  "personalInfo": {
+    "name": "FARHAN KHAN",
+    "email": "crce.9134.ecs@gmail.com",
+    "phone": "9867320069",
+    "location": {
+      "city": "Mumbai",
+      "state": "",
+      "country": "India"
+    },
+    "summary": "A B.E student at FRCRCE who is keen to pursue a career in the electronics and computer science Sector with roles which best complement my skill set."
+  },
+  "links": {
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "otherProfessionalLinks": []
+  },
+  "skills": [
+    {
+      "category": "",
+      "skills": [
+        "Adaptability",
+        "Team work",
+        "Problem solving",
+        "Interpersonal skills",
+        "Leadership",
+        "Arduino programming",
+        "IoT",
+        "UI/UX Design",
+        "Data Structures"
+      ]
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "Indobionics",
+      "position": "Embedded Intern",
+      "location": "",
+      "startDate": "07/2023",
+      "endDate": "08/2023",
+      "duration": "1 month",
+      "responsibilities": [
+        "Worked under industry professionals and helped in the making of a prosthetic arm.",
+        "Wrote various Arduino codes and developed logic for various aspects into the making of a prosthetic arm."
+      ],
+      "achievements": []
+    },
+    {
+      "company": "Bharat Intern",
+      "position": "Data Science Intern",
+      "location": "",
+      "startDate": "08/2023",
+      "endDate": "09/2023",
+      "duration": "1 month",
+      "responsibilities": [
+        "Developed a stock prediction system using LSTM.",
+        "Developed a Handwritten digit recognition system."
+      ],
+      "achievements": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "Know Your Element",
+      "description": "Interactive periodic table using ReactJS",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["ReactJS"],
+      "link": "",
+      "achievements": []
+    },
+    {
+      "name": "DetectoFlame",
+      "description": "Flame, smoke and gas sensor using Arduino",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["Arduino"],
+      "link": "",
+      "achievements": []
+    },
+    {
+      "name": "Bluetooth Controlled car",
+      "description": "",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": [],
+      "link": "",
+      "achievements": []
+    },
+    {
+      "name": "Ultrasonic Security System",
+      "description": "",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": [],
+      "link": "",
+      "achievements": []
+    },
+    {
+      "name": "RoboDuster",
+      "description": "Automatic Whiteboard Cleaner",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": [],
+      "link": "",
+      "achievements": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "FRCRCE",
+      "degree": "B.E",
+      "fieldOfStudy": "Electronics and Computer Science",
+      "graduationDate": "2020-Present",
+      "gpa": "",
+      "relevantCoursework": ["Science student with bifocal subject", "Electronics"]
+    },
+    {
+      "institution": "Bhavan’s College",
+      "degree": "",
+      "fieldOfStudy": "Science",
+      "graduationDate": "2018-2020",
+      "gpa": "",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "Bombay Cambridge International School",
+      "degree": "",
+      "fieldOfStudy": "",
+      "graduationDate": "2007-2018",
+      "gpa": "",
+      "relevantCoursework": []
+    }
+  ],
+  "certifications": [],
+  "languages": [],
+  "awards": [],
+  "publications": []
+}
+```

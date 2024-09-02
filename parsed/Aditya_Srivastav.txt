@@ -1,0 +1,183 @@
+```json
+{
+  "personalInfo": {
+    "name": "Aditya Srivastav",
+    "email": "adityasrivastav863@gmail.com",
+    "phone": "+91-7827283235",
+    "location": {
+      "city": "Noida",
+      "state": "UP",
+      "country": "India"
+    },
+    "summary": ""
+  },
+  "links": {
+    "linkedin": "/ne+91-7827283235 adityasrivastav863@gmail.com Noida - India /♀nednLinkedin Leetcode",
+    "github": "/gtbGithub Leetcode",
+    "portfolio": "",
+    "otherProfessionalLinks": []
+  },
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "skills": ["C++", "Java", "Python", "Javascript"]
+    },
+    {
+      "category": "Frameworks Libraries",
+      "skills": ["React.js", "Node.js", "Next.js", "HTML", "CSS"]
+    },
+    {
+      "category": "Database Management Tools",
+      "skills": ["MongoDB", "MySQL"]
+    },
+    {
+      "category": "Version Control",
+      "skills": ["Git", "Github"]
+    },
+    {
+      "category": "Other Tools",
+      "skills": ["Netlify", "Postman"]
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "ITJobxs.com",
+      "position": "SDE Intern",
+      "location": "Remote",
+      "startDate": "August 2024",
+      "endDate": "Current",
+      "duration": "",
+      "responsibilities": ["Worked on the Design and Development part of a fully responsive web page for a particular section of ITJobxs.com.", 
+                           "Worked on User Verification/Authentication + Engineering challenges of detecting and removing fake bots and posts.",
+                           "Integrated Recaptcha with the website - Google Layer of Protection for websites."],
+      "achievements": []
+    },
+    {
+      "company": "Gigforce",
+      "position": "Full Stack Developer Intern",
+      "location": "Gurugram, India",
+      "startDate": "May 2024",
+      "endDate": "August 2024",
+      "duration": "",
+      "responsibilities": ["Developed a user portal with authentication for login/logout using Google and with email and password with Firebase.",
+                          "Created a system to collect and verify user data, leveraging React.js for the frontend.",
+                          "Utilized Firebase Firestore for efficient data storage and management."],
+      "achievements": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "Expense-Tracker",
+      "description": "Developed a full-stack application for tracking income and expenses.",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["ReactJs", "Node", "ExpressJs", "MongoDB"],
+      "link": "",
+      "achievements": []
+    },
+    {
+      "name": "Blogify",
+      "description": "Created a feature-rich blogging platform with dynamic content management.",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["EJS", "NodeJS", "ExpressJS", "MongoDB", "Bootstrap"],
+      "link": "",
+      "achievements": []
+    },
+    {
+      "name": "QuickChats",
+      "description": "Developed a real-time chat application with bi-directional communication.",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["EJS", "NodeJS", "ExpressJS", "Socket.io"],
+      "link": "",
+      "achievements": []
+    },
+    {
+      "name": "Gemini Clone",
+      "description": "Developed a Gemini Clone application using React.js for the front-end interface.",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["ReactJs", "Gemini API"],
+      "link": "",
+      "achievements": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "KCC Institute Of Technology And Management",
+      "degree": "B.Tech. (CSE)",
+      "fieldOfStudy": "",
+      "graduationDate": "2025",
+      "gpa": "8.0",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "Nilgiri Hills Public School",
+      "degree": "",
+      "fieldOfStudy": "",
+      "graduationDate": "2021",
+      "gpa": "85%",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "Nilgiri Hills Public School",
+      "degree": "",
+      "fieldOfStudy": "",
+      "graduationDate": "2019",
+      "gpa": "89%",
+      "relevantCoursework": []
+    }
+  ],
+  "certifications": [],
+  "languages": [],
+  "awards": [
+    {
+      "title": "Achieved 4457 Rank in TCS CodeVita",
+      "issuer": "",
+      "date": "",
+      "description": ""
+    },
+    {
+      "title": "Achieved AIR:1890 in CodeKaze",
+      "issuer": "",
+      "date": "",
+      "description": ""
+    },
+    {
+      "title": "5 Star at HackerRank Problem Solving",
+      "issuer": "",
+      "date": "",
+      "description": ""
+    },
+    {
+      "title": "Solved Over 550+ Coding Questions on different coding platforms (Hackerrank , Leetcode, GFG).",
+      "issuer": "",
+      "date": "",
+      "description": ""
+    },
+    {
+      "title": "1560+ Rating on Leetcode.",
+      "issuer": "",
+      "date": "",
+      "description": ""
+    },
+    {
+      "title": "OpenSource Contribution in HacktoberFest",
+      "issuer": "",
+      "date": "",
+      "description": ""
+    }
+  ],
+  "publications": [],
+  "summary": ""
+}
+```

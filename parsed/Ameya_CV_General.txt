@@ -1,0 +1,163 @@
+```json
+{
+  "personalInfo": {
+    "name": "Ameya Deshmukh",
+    "email": "ameyadeshmukh742@gmail.com",
+    "phone": "+91-9130086012",
+    "location": {
+      "city": "Mumbai",
+      "state": "",
+      "country": "India"
+    },
+    "summary": "Software Development Engineer with experience in building robust backend systems and integrating them with responsive and user-friendly frontends."
+  },
+  "links": {
+    "linkedin": "^/_ne+linkedin",
+    "github": "^/_gbithub",
+    "portfolio": "",
+    "otherProfessionalLinks": []
+  },
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "skills": ["Java 8+", "C++"]
+    },
+    {
+      "category": "Frameworks and Libraries",
+      "skills": ["Spring", "Spring Boot", "Spring Security", "Maven", "Spring Data Jpa", "Spring Cloud", "Kafka", "Hibernate"]
+    },
+    {
+      "category": "ORM Tools",
+      "skills": ["Hibernate/JPA"]
+    },
+    {
+      "category": "Build Tools",
+      "skills": ["Ivy", "Gradle", "Maven"]
+    },
+    {
+      "category": "Version Control",
+      "skills": ["Git", "Bitbucket"]
+    },
+    {
+      "category": "CI/CD Pipeline",
+      "skills": ["Jenkins"]
+    },
+    {
+      "category": "API Documentation",
+      "skills": ["Swagger"]
+    },
+    {
+      "category": "Testing Framework",
+      "skills": ["Junit", "Mockito"]
+    },
+    {
+      "category": "Developer Tools",
+      "skills": ["Eclipse", "Intellij", "VS Code", "DbVisualiser", "DB Artisan", "Postman"]
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "Morgan Stanley",
+      "position": "Software Developer Engineer",
+      "location": "Mumbai, India",
+      "startDate": "June 2022",
+      "endDate": "Current",
+      "duration": "",
+      "responsibilities": [
+        "Working with PWM Asia Tech in Portfolio Accounting and Position Generation Team as a Backend Java Developer ",
+        "Worked on end to end integration of Equity Swaps product where we designed, developed and delivered a scalable system for Position, Transaction and Performance accounting and generation of Equity Swap Trades.",
+        "Leveraged Technologies like Java 8+, Spring, Gradle/Maven, Spring security, Hibernate - Jpa, Kafka, REST APIs, Junit and Mockito in building robust applications ensuring seamless integration.",
+        "Worked on different database procedures and integrated backend applications with DB2 using JDBC and Hibernate ORM , ensuring data persistence and efficient querying."
+      ],
+      "achievements": [
+        "Secured Rank 2 in IVY to GRADLE hackathon in Morgan Stanley.",
+        "Devoloped over 20+ Java Backend Applications with Rest APIs .",
+        "Solved Over 1000 Coding Questions on Different Coding platforms (Leetcode + GFG + Code Studios + Hackerrank). Over 550 Coding Questions on Leetcode."
+      ]
+    },
+    {
+      "company": "Accolite Digital",
+      "position": "Software Development Intern",
+      "location": "Mumbai, India",
+      "startDate": "Feb 2022",
+      "endDate": "June 2022",
+      "duration": "",
+      "responsibilities": [
+        "Developed a Spring Boot CRUD web application using Thymeleaf, Spring MVC, Spring Data JPA, Hibernate, and MySQL . Implemented features for Employee Management System.",
+        "Developed a full-stack employee management application using Spring Boot for the backend and React.js for the frontend. The system features JWT-based user authentication and autorization , allowing secure access to various functionalities."
+      ],
+      "achievements": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "Hotel Booking Application",
+      "description": "TheHotel-Booking-Application is a comprehensive full-stack project designed to streamline hotel reservation management.",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["Spring Boot", "Maven", "Data-JPA", "Hibernate", "MySql", "OOPs", "AOP", "Spring Security", "REST APIs", "JWT", "Vite React", "Javascript", "Bootstrap", "Axios"],
+      "link": "Github",
+      "achievements": []
+    },
+    {
+      "name": "Personal-Email-Client",
+      "description": "ThePersonal-Email-Client is a full-stack application focused on efficient email management.",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["Springboot", "Maven", "Data-JPA", "Hibernate", "MySql", "OOPs", "AOP", "Spring Security", "REST APIs", "Vite React", "JavaScript", "Tailwind CSS", "TinyMCE", "Axios"],
+      "link": "Github",
+      "achievements": []
+    },
+    {
+      "name": "Movie Review App Backend",
+      "description": "Developed a robust backend for a Movie Review Application using Spring Boot, JPA-Hibernate, and MySQL .",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["Springboot", "Maven", "Spring data JPA", "hibernate", "mysql", "spring security", "REST APIs"],
+      "link": "Github",
+      "achievements": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Vishwakrma Institute of Technology, Pune",
+      "degree": "B.Tech. (CS)",
+      "fieldOfStudy": "Computer Science",
+      "graduationDate": "May 2022",
+      "gpa": "9.0",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "HSC Maharashtra",
+      "degree": "Higher Secondary",
+      "fieldOfStudy": "",
+      "graduationDate": "2018",
+      "gpa": "84%",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "Central Board of Secondary Education",
+      "degree": "Secondary",
+      "fieldOfStudy": "",
+      "graduationDate": "2016",
+      "gpa": "94%",
+      "relevantCoursework": []
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": ""
+    }
+  ],
+  "awards": [],
+  "publications": []
+}
+```

@@ -1,0 +1,164 @@
+```json
+{
+  "personalInfo": {
+    "name": "Dhruv Pednekar",
+    "email": "pednekardhruv16@gmail.com",
+    "phone": "+91 7021262479",
+    "location": {
+      "city": "",
+      "state": "",
+      "country": ""
+    },
+    "summary": "Dedicated and highly motivated Electric Vehicle Engineer with a good foundation in embedded systems (C++/C), electric propulsion systems, battery technology and sustainable mobility."
+  },
+  "links": {
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "otherProfessionalLinks": []
+  },
+  "skills": [
+    {
+      "category": "Technical Skills",
+      "skills": [
+        "Embedded Systems",
+        "Embedded C/C++ Programming",
+        "Electric Propulsion Systems",
+        "Battery Technology",
+        "Sustainable Mobility",
+        "IOT",
+        "ESP8266",
+        "BLYNK",
+        "OpenCV",
+        "FER Library",
+        "MicroPython/C++",
+        "LVGL",
+        "STM32",
+        "C++/C",
+        "CAN Bus",
+        "I2C",
+        "SPI"
+      ]
+    },
+    {
+      "category": "Personal Projects",
+      "skills": ["Emotion Detection Robot", "Vehicle Health and Performance Enhancement", "Web Development"]
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "CRCE Formula Racing",
+      "position": "Team Captain",
+      "location": "",
+      "startDate": "2023-24",
+      "endDate": "2023-24",
+      "duration": "",
+      "responsibilities": [
+        "Designing and production of all PCB’s and wiring schematic and layout for the vehicle"
+      ],
+      "achievements": [
+        "Achieved AIR 5th in PI-EV 2022",
+        "Achieved AIR 7th in Formula Bharat 2023",
+        "Achieved AIR 4th in Formula Imperial held between 12th - 16th October 2023"
+      ]
+    },
+    {
+      "company": "CRCE Formula Racing",
+      "position": "Electronics Department Head",
+      "location": "",
+      "startDate": "2023-24",
+      "endDate": "2023-24",
+      "duration": "",
+      "responsibilities": [
+        "Implementing a custom DAS system with multiple sensors using CAN, I2C, SPI etc."
+      ],
+      "achievements": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "Vehicle Health and Performance Enhancement",
+      "description": "A custom DAS system with a GUI for real-time data visualization",
+      "role": "Developer",
+      "startDate": "Ongoing (Feb ~ April 2024)",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["STM32", "CAN Bus", "OpenCV", "FER Library", "Machine Learning"],
+      "link": "",
+      "achievements": []
+    },
+    {
+      "name": "Emotion Detection Robot",
+      "description": "An IoT project that uses OPEN-CV and FER library to track and record user's mood based on facial expressions",
+      "role": "Developer",
+      "startDate": "April 2023",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["ESP8266", "OpenCV", "FER Library"],
+      "link": "",
+      "achievements": []
+    },
+    {
+      "name": "Home Automation System",
+      "description": "A Wi-Fi controlled home automation system using ESP8266",
+      "role": "Developer",
+      "startDate": "April 2022",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["ESP8266", "BLYNK", "Web Development"],
+      "link": "",
+      "achievements": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Fr. Conceicao Rodrigues College of Engineering, Mumbai University",
+      "degree": "B.E. (Electronics & Computer Science)",
+      "fieldOfStudy": "",
+      "graduationDate": "2024",
+      "gpa": "",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "St. Xavier’s College, Mumbai",
+      "degree": "Class XII",
+      "fieldOfStudy": "",
+      "graduationDate": "",
+      "gpa": "",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "St. Xavier’s Boys Academy, Mumbai",
+      "degree": "Class X",
+      "fieldOfStudy": "",
+      "graduationDate": "",
+      "gpa": "",
+      "relevantCoursework": []
+    }
+  ],
+  "certifications": [
+    {
+      "name": "EV Safety Level 3",
+      "issuingOrganization": "Certified HV Engineer",
+      "issueDate": "",
+      "expirationDate": "",
+      "credentialId": "Skill Shark, June 2023"
+    }
+  ],
+  "awards": [
+    {
+      "title": "1st Place in Adalat Event",
+      "issuer": "St. Xavier’s Academy",
+      "date": "March 2023",
+      "description": ""
+    },
+    {
+      "title": "Student of the Year in Standard X",
+      "issuer": "St. Xavier’s Boys Academy",
+      "date": "",
+      "description": ""
+    }
+  ],
+  "publications": []
+}
+```

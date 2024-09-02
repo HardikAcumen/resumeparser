@@ -1,0 +1,119 @@
+```json
+{
+  "personalInfo": {
+    "name": "HARDIK PRAJAPATI",
+    "email": "hardikprajapati7843@gmail.com",
+    "phone": "7715891774",
+    "location": {
+      "city": "Malad(E)",
+      "state": "Mumbai",
+      "country": ""
+    },
+    "summary": ""
+  },
+  "links": {
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "otherProfessionalLinks": []
+  },
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "skills": ["Python", "Java", "SQL", "Web Scraping"]
+    },
+    {
+      "category": "Libraries",
+      "skills": ["Flask", "SQLAlchemy", "NumPy", "Pandas", "SKlearn", "BeautifulSoup", "SpaCy", "apify client", "bcrypt"]
+    },
+    {
+      "category": "Cloud",
+      "skills": ["Railway.com", "Heroku", "Streamlit"]
+    },
+    {
+      "category": "Cloud Tools",
+      "skills": ["GitHub", "Colab/Jupyter", "VisualStudio Code"]
+    },
+    {
+      "category": "Soft/ Non-Tech Skills",
+      "skills": ["Communication", "Problem Solving", "Analytical Thinking", "Project Planning"]
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "The Sparks Foundation",
+      "position": "Python Developer Intern",
+      "location": "",
+      "startDate": "Feb-23",
+      "endDate": "",
+      "duration": "",
+      "responsibilities": [
+        "Built a platform for job-seekers that can extract skill requirements of jobs.",
+        "Scraping Data from Indeed.com on a regular basis.",
+        "Annotating the Dataset by identifying skill requirements for jobs.",
+        "Training and Testing of Models.",
+        "Deployment of Models on Public Cloud Services."
+      ],
+      "achievements": []
+    },
+    {
+      "company": "Team Robocon CRCE",
+      "position": "Management Head",
+      "location": "",
+      "startDate": "August 2021",
+      "endDate": "Aug 2023",
+      "duration": "",
+      "responsibilities": [
+        "Looking after the overall development of the project and helping juniors.",
+        "Scheduling Workflows for junior members, planning tasks with Senior colleagues.",
+        "Maintaining Social Platforms, Fundraising through multiple channels.",
+        "Facilitating monetary or in-kind sponsorship."
+      ],
+      "achievements": [
+        "Achieved All India Rank 9 in DD National Robocon among 120+ teams nationwide organized by Doordarshan.",
+        "Qualified level 1 of Flipkart Grid 3.0, under 46 qualifying teams out of 9000+ participa ting teams."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Campus Security Management Portal",
+      "description": "",
+      "role": "",
+      "startDate": "November 22",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["MySQL", "Flask", "bcrypt"],
+      "link": "",
+      "achievements": []
+    },
+    {
+      "name": "Hunting Buddy",
+      "description": "",
+      "role": "",
+      "startDate": "Jan 24",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["Spacy", "API-Spacy-Data", "Versioning", "Cloud (Railway .com)", "NLP"],
+      "link": "",
+      "achievements": [
+        "Recognized with SpaCy. Currently deployed on railway.com."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Fr.ConceicaoRodriguesCollegeofEngineering",
+      "degree": "Bachelor's Degree",
+      "fieldOfStudy": "Electronics & Computer Science",
+      "graduationDate": "July 2020",
+      "gpa": "",
+      "relevantCoursework": ["Object Oriented Programming", "Data Structures & Algorithms", "Databases Management", "Big Data Analytics"]
+    }
+  ],
+  "certifications": [],
+  "languages": [],
+  "awards": [],
+  "publications": []
+}
+```

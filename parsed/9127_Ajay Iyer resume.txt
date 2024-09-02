@@ -1,0 +1,123 @@
+```json
+{
+  "personalInfo": {
+    "name": "Ajay Iyer",
+    "email": "iyerajay62@gmail.com",
+    "phone": "+91-8369028751",
+    "location": {
+      "city": "",
+      "state": "",
+      "country": ""
+    },
+    "summary": "To serve a progressive organization to which I can serve with best of my ability, putting my critical and analytical thinking  to test thereby helping the organization to progress further."
+  },
+  "links": {
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "otherProfessionalLinks": []
+  },
+  "skills": [
+    {
+      "category": "Technical",
+      "skills": [
+        "HTML (Intermediate)",
+        "CSS (Intermediate)",
+        "Java (Intermediate)",
+        "C (Basic)",
+        "C++ (Basic)"
+      ]
+    }
+  ],
+  "workExperience": [],
+  "projects": [
+    {
+      "name": "Algorithm Visualizer",
+      "description": "Algorithm visualization uses graphics to show how algorithms operate. Its primary goal is to clarify and enhance comprehension of how algorithms work with various sorting strategies, including merge sort, rapid sort, insertion sort, bubble sort, etc.",
+      "role": "",
+      "startDate": "January 2023",
+      "endDate": "",
+      "duration": "",
+      "technologies": [],
+      "link": "",
+      "achievements": []
+    },
+    {
+      "name": "Canteen App",
+      "description": "This website is made so that proper control of food and st aff is recorded Use the database we made a website through which order billing and receival status can be seen and managed.",
+      "role": "",
+      "startDate": "October 2022",
+      "endDate": "",
+      "duration": "",
+      "technologies": [],
+      "link": "",
+      "achievements": []
+    },
+    {
+      "name": "Lie Detector using open cv and Arduino",
+      "description": "This basically measures the lies that person says which is measured by the dilation of the pupil In this we also measured the lies by making a hardware that senses the temperature and heartbeat which shows a bare minimum change when he or she lies and th e change is recorded and it is shown in the range which justifies the truthfulness of the person",
+      "role": "",
+      "startDate": "April 2022",
+      "endDate": "",
+      "duration": "",
+      "technologies": [],
+      "link": "",
+      "achievements": []
+    },
+    {
+      "name": "Snake Game using Java",
+      "description": "This game is build using java fundamentals The primary aim of the building this game to learn java in an efficient manner.",
+      "role": "",
+      "startDate": "January 2022",
+      "endDate": "",
+      "duration": "",
+      "technologies": [],
+      "link": "",
+      "achievements": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Fr. Conceicao Rodregues College of Engineering",
+      "degree": "SE",
+      "fieldOfStudy": "Electronics & Computer Science",
+      "graduationDate": "Pursuing",
+      "gpa": "8.79(V)",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "Royal College of Arts, Commerce and Science",
+      "degree": "XII",
+      "fieldOfStudy": "HSC",
+      "graduationDate": "2020",
+      "gpa": "70.30%",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "NL Dalmia High School, Mumbai",
+      "degree": "X",
+      "fieldOfStudy": "SSC",
+      "graduationDate": "2018",
+      "gpa": "89.20%",
+      "relevantCoursework": []
+    }
+  ],
+  "certifications": [],
+  "languages": [],
+  "awards": [
+    {
+      "title": "",
+      "issuer": "",
+      "date": "",
+      "description": ""
+    },
+    {
+      "title": "Ranked 4th in DSO championship in Table tennis",
+      "issuer": "",
+      "date": "2019",
+      "description": ""
+    }
+  ],
+  "publications": []
+}
+```

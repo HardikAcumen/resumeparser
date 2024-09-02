@@ -1,0 +1,142 @@
+```json
+{
+  "personalInfo": {
+    "name": "Hardik Prajapati",
+    "email": "hardikprajapati7843@gmail.com",
+    "phone": "7715891774",
+    "location": {
+      "city": "Malad (E)",
+      "state": "Mumbai",
+      "country": "India" // inferred from the content
+    },
+    "summary": "Management Head with experience in Team management, workflow scheduling, and social media management."
+  },
+  "links": {
+    "github": "github.com/Hardik7843",
+    "otherProfessionalLinks": [
+      "github.com/Hardik7843",
+      "powershell.io",
+      "https://github.com/wiki",
+      "https://github.com,"
+    ]
+  },
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "skills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Web Scraping"
+      ]
+    },
+    {
+      "category": "Libraries and Frameworks",
+      "skills": [
+        "Flask",
+        "SQLAlchemy",
+        "NumPy",
+        "Pandas",
+        "Scikit-learn",
+        "Beautiful Soup",
+        "SpaCy",
+        "Apify Client"
+      ]
+    },
+    {
+      "category": "Cloud",
+      "skills": [
+        "Railway.com"
+      ]
+    },
+    {
+      "category": "Tools",
+      "skills": [
+        "GitHub",
+        "Power BI",
+        "Colab/Jupyter"
+      ]
+    },
+    {
+      "category": "Soft/Non-Technical Skills",
+      "skills": [
+        "Communication",
+        "Problem Solving",
+        "Analytical Thinking",
+        "Project Planning"
+      ]
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "Team Robocon CRCE",
+      "position": "Management Head",
+      "location": "CRCE",
+      "startDate": "August 2021",
+      "endDate": "August 2023",
+      "duration": "2 years",
+      "responsibilities": [
+        "Looking after the overall development of the project and helping juniors.",
+        "Scheduling workflows for junior members, planning tasks with senior colleagues.",
+        "Maintaining social platforms, fundraising through multiple channels. Facilitating monetary or in-kind sponsorship."
+      ],
+      "achievements": [
+        "Maintained the team's social media presence and facilitated fundraising efforts."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Price estimator for used cars",
+      "description": "A platform for job seekers to extract skill requirements of jobs posted on platforms like Indeed.com",
+      "role": "Developer",
+      "startDate": "January 24",
+      "endDate": "",
+      "duration": "",
+      "technologies": [
+        "API",
+        "Spacy",
+        "Data Versioning",
+        "Cloud (Railway .com)"
+      ],
+      "link": "https://github.com/Hardik7843/Price-estimator",
+      "achievements": [
+        "Trained a model for Named Entity Recognition with Spacy and deployed it on Railway.com"
+      ]
+    },
+    {
+      "name": "Campus Security Management Portal",
+      "description": "A registration/login page with simple authentication for employees and managers",
+      "role": "Developer",
+      "startDate": "November 22",
+      "endDate": "",
+      "duration": "",
+      "technologies": [
+        "MySQL",
+        "Flask",
+        "HTML"
+      ],
+      "link": "",
+      "achievements": [
+        "Connected the MySQL database with Flask for authentication"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Fr. Conceicao Rodrigues College of Engineering",
+      "degree": "Bachelor's Degree",
+      "fieldOfStudy": "Electronics and Computer Science",
+      "graduationDate": "July 2020",
+      "gpa": "",
+      "relevantCoursework": [
+        "Object-Oriented Programming",
+        "Data Structures & Algorithms",
+        "Databases Management",
+        "Big Data Analytics"
+      ]
+    }
+  ]
+}
+```
+Note: Please ensure the start date is in the format of 'YYYY' or omit it if the resume provides it in non-specific date.

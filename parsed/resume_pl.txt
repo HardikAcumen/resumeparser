@@ -1,0 +1,141 @@
+```json
+{
+  "personalInfo": {
+    "name": "Satwik Shetty",
+    "summary": "Admanto it, Vigilant Personality. I have completed my internship at IBM and have working knowledge in python (not specified), along with various programming languages"
+  },
+  "links": {
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "otherProfessionalLinks": []
+  },
+  "skills": [
+    {
+      "category": "Skills and Interests",
+      "skills": [
+        "Fundamentals",
+        "Training",
+        "Online Data Security",
+        "Arduino",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "category": "Leadership",
+      "skills": [
+        "Collaboration",
+        "Communication"
+      ]
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "IBM",
+      "position": "Intern",
+      "location": "Not specified",
+      "startDate": "March 2023",
+      "endDate": "",
+      "duration": "",
+      "responsibilities": [
+        "Completed three distinct internship programs, covering a wide spectrum of cybersecurity topics, enabling a holistic understanding of the field.",
+        "Acquired a diverse skill set encompassing fundamentals, training, and online data security, equipping me with the expertise to address various challenges effectively."
+      ],
+      "achievements": [
+        "Completion of the internship programs at IBM"
+      ]
+    },
+    {
+      "company": "Own Projects",
+      "position": "Developer/Founder",
+      "location": "Not specified",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "responsibilities": [],
+      "achievements": [
+        "Design and build a voice-controlled car system, complemented by a mobile application, using Arduino technology",
+        "Build a canteen management system website powered by XAMPP"
+      ]
+    },
+    {
+      "company": "Catering",
+      "position": "Catering Manager",
+      "location": "Not specified",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "responsibilities": [
+        "Guided and coordinated a team, fostering collaboration, communication, and achieving successful outcomes in fast-paced environments"
+      ],
+      "achievements": [
+        "Effective leadership as a catering manager"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Voice Enabled Car",
+      "description": "Design and build a voice-controlled car system, complemented by a mobile application, using Arduino technology.",
+      "role": "Developer/Founder",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["Arduino", "Mobile Application"],
+      "link": "",
+      "achievements": [
+        "Elevated user experience and safety while contributing to advancements in in-vehicle technology"
+      ]
+    },
+    {
+      "name": "Canteen Management System",
+      "description": "Built a canteen management system website powered by XAMPP.",
+      "role": "Developer/Founder",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["XAMPP"],
+      "link": "",
+      "achievements": [
+        "Provided efficient management of food ordering, inventory, payments, and reporting for convenient and streamlined canteen operations"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "The Bishop's Co-Ed School (ICSE)",
+      "degree": "",
+      "fieldOfStudy": "",
+      "graduationDate": "May 2018",
+      "gpa": "80.60%",
+      "relevantCoursework": [
+        "Boxing",
+        "Football"
+      ]
+    },
+    {
+      "institution": "Mahaveer Jr. College (HSC)",
+      "degree": "",
+      "fieldOfStudy": "",
+      "graduationDate": "July 2020",
+      "gpa": "68.92%",
+      "relevantCoursework": [
+        "College Football"
+      ]
+    }
+  ],
+  "certifications": [
+
+  ],
+  "languages": [
+
+  ],
+  "awards": [
+
+  ],
+  "publications": []
+
+}
+```
+
+Note: Since there is no email, phone number, LinkedIn profile, GitHub profile or portfolio provided in the given resume, these fields are left empty in the JSON template. Also, the "duration" field in workExperience and projects is also left empty as the exact duration is not provided.

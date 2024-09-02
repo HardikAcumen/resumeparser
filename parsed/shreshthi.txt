@@ -1,0 +1,222 @@
+```json
+{
+  "personalInfo": {
+    "name": "SHRESHTHI BADJATYA",
+    "email": "shreshthij49@gmail.com",
+    "phone": "+91-7976631993",
+    "location": {
+      "city": "",
+      "state": "Rajasthan",
+      "country": "India"
+    },
+    "summary": "Software Engineer"
+  },
+  "links": {
+    "linkedin": "linkedin",
+    "github": "github",
+    "portfolio": "portfolio",
+    "otherProfessionalLinks": [
+      "Leetcode 500+ Problems Solved",
+      "Coding Ninjas 200+ Problems Solved",
+      "Medium Regular blog posts to help other students",
+      "Linkedin 2K+ Followers"
+    ]
+  },
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "skills": [
+        "C++",
+        "CSS",
+        "HTML"
+      ]
+    },
+    {
+      "category": "Frameworks",
+      "skills": [
+        "ReactJS",
+        "NodeJS",
+        "ExpressJS",
+        "APIs"
+      ]
+    },
+    {
+      "category": "Databases",
+      "skills": [
+        "SQL",
+        "MongoDB",
+        "DBMS",
+        "MySQL",
+        "OOPs"
+      ]
+    },
+    {
+      "category": "Other skills",
+      "skills": [
+        "Data Structures",
+        "Algorithms",
+        "Problem Solving"
+      ]
+    },
+    {
+      "category": "Tools",
+      "skills": [
+        "Git",
+        "Github",
+        "Figma",
+        "Vercel",
+        "VScode"
+      ]
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "Lit Infotech Ltd",
+      "position": "Web Developer Intern",
+      "location": "Remote, India",
+      "startDate": "Feb 2024",
+      "endDate": "June 2024",
+      "duration": "4 months",
+      "responsibilities": [
+        "Developed responsive web applications utilizing HTML, CSS, JavaScript, and SQL, focusing on optimizing speed and SEO to enhance user experience.",
+        "Managed SQL databases, ensuring data integrity and optimizing queries for efficient data retrieval.",
+        "Designed and implemented Figma and contributed to both front-end and back-end development tasks, integrating user interfaces with server-side logic using frameworks as necessary."
+      ],
+      "achievements": []
+    },
+    {
+      "company": "ITJOBX",
+      "position": "SDE Intern",
+      "location": "Remote, India",
+      "startDate": "Jul 2024",
+      "endDate": "Present",
+      "duration": "3+ months",
+      "responsibilities": [
+        "Worked on the design and development part of a fully responsive web page for a particular section of ITJOBX.com.",
+        "Worked on user verification/authentication and engineering challenges of detecting and removing the fake bots and posts.",
+        "Integrated Recaptcha with the website - Google Layer of Protection for websites."
+      ],
+      "achievements": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "Chit-Chat Pro",
+      "description": "A real-time group chat application using Reactjs and Node.js with WebSocket technology for communication.",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": [
+        "ReactJs",
+        "Nodejs",
+        "Socket.io",
+        "MongoDb"
+      ],
+      "link": "",
+      "achievements": []
+    },
+    {
+      "name": "Sociogram",
+      "description": "Published a research paper in IEEE conference Publication Link. Developed a web application with a login and registration form for Users.",
+      "role": "Team leader and front-end developer",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": [
+        "ReactJs",
+        "NodeJs",
+        "MongoDB",
+        "ExpressJs"
+      ],
+      "link": "Github",
+      "achievements": []
+    },
+    {
+      "name": "Online Job Portal",
+      "description": "A site that helped candidate and companies to interact with each other. Designed user-friendly job search interface that enables user to quickly and easily find relevant job opportunities based on their unique criteria.",
+      "role": "Front-end developer",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "PHP",
+        "RDBMS",
+        "MySQL",
+        "JavaScript"
+      ],
+      "link": "",
+      "achievements": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Chandigarh University",
+      "degree": "B.Tech. (CSE)",
+      "fieldOfStudy": "",
+      "graduationDate": "2020 – 2024",
+      "gpa": "8 CGPA",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "Sir Padampat Singhania School",
+      "degree": "Higher Secondary",
+      "fieldOfStudy": "",
+      "graduationDate": "2019",
+      "gpa": "77%",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "Sir Padampat Singhania School",
+      "degree": "Secondary",
+      "fieldOfStudy": "",
+      "graduationDate": "2017",
+      "gpa": "9.2 CGPA",
+      "relevantCoursework": []
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "",
+      "proficiency": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "AMCAT 2022 Exam",
+      "issuer": "",
+      "date": "2022",
+      "description": "Scored Grade A in all Modules."
+    },
+    {
+      "title": "Weekly Contest 380 (leetcode)",
+      "issuer": "",
+      "date": "",
+      "description": "Secured Rank 1456 among 21,000 participants."
+    },
+    {
+      "title": "CodeKaze-Sep’23",
+      "issuer": "",
+      "date": "",
+      "description": "AIR 4915 among 1.4 lakh participants."
+    },
+    {
+      "title": "NPTEL exam",
+      "issuer": "",
+      "date": "",
+      "description": "Demonstrated proficiency in software testing by scoring 75 marks and achieving elite+silver criteria"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Research Paper in IEEE conference",
+      "publisher": "",
+      "date": "",
+      "link": ""
+    }
+  ]
+}
+```

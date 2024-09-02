@@ -1,0 +1,217 @@
+```json
+{
+  "personalInfo": {
+    "name": "Shubham Soni Nath",
+    "email": "shubham104202@gmail.com",
+    "phone": "7977998336",
+    "location": {
+      "city": "Vasai",
+      "country": "India"
+    },
+    "summary": "To apply the knowledge gained from courses, internships and other activities, in a responsible and proper manner resulting in adding value to the organization and parallelly learn more in the process."
+  },
+  "links": {
+    "linkedin": "www.linkedin.com/in/shubham625",
+    "github": "shubham202",
+    "portfolio": "https://shubham202.github.io/Portfolio-Website/",
+    "otherProfessionalLinks": []
+  },
+  "skills": [
+    {
+      "category": "Programming",
+      "skills": [
+        "Java",
+        "C/C++",
+        "JavaScript",
+        "SQL",
+        "MERN stack"
+      ]
+    },
+    {
+      "category": "Design",
+      "skills": [
+        "UI/UX Design"
+      ]
+    },
+    {
+      "category": "Problem Solving",
+      "skills": [
+        "Problem Solving"
+      ]
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "Sahayata 24x7, Borivali",
+      "position": "FullStack Web Developer",
+      "location": "Borivali",
+      "startDate": "",
+      "endDate": "",
+      "duration": "Current",
+      "responsibilities": [
+        "Develop front-end using React.js"
+      ],
+      "achievements": [
+        "Developed a report generation feature at the frontend using React Js."
+      ]
+    },
+    {
+      "company": "Autobuddys, Andheri",
+      "position": "Backend API web Dev",
+      "location": "Andheri",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "responsibilities": [],
+      "achievements": [
+        "Enabled patients to easily download their reports as PDFs, providing a user friendly way to access their important medical information."
+      ]
+    },
+    {
+      "company": "IBM Skillsbuild, Online",
+      "position": "Cyber Security",
+      "location": "Online",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "responsibilities": [],
+      "achievements": [
+        "Developed a vulnerability scanner that takes URL of a website as input and checks for SQL injection and cross site scripting vulnerabilities."
+      ]
+    },
+    {
+      "company": "Robocon CRCE, Bandra",
+      "position": "Web Developer",
+      "location": "Bandra",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "responsibilities": [
+        "Developed website for our college technical team using HTML, CSS and JavaScript",
+        "Helping with computer vision programming for ABU Robocon competition"
+      ],
+      "achievements": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "Urban Garden",
+      "description": "An automation project which checks moisture content in soil and waters plant according to data provided by moisture sensors.",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": [
+        "Html",
+        "CSS",
+        "JavaScript",
+        "Firebase",
+        "C++"
+      ],
+      "link": "https://shubham202.github.io/UG/",
+      "achievements": []
+    },
+    {
+      "name": "MedEasy",
+      "description": "It aims to simplify the patient registration process and enhance security by utilizing facial recognition technology.",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": [
+        "EJS",
+        "CSS",
+        "JavaScript",
+        "Express",
+        "Node Js",
+        "MongoDB",
+        "Python",
+        "Flask"
+      ],
+      "link": "https://github.com/aayushjuhu/WebScripters_Stratagem2k23",
+      "achievements": []
+    },
+    {
+      "name": "Quotes App",
+      "description": "A PWA optimized application that can be installed on any platform where users can publish Quotes and also read Quotes published by others.",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": [
+        "React Js",
+        "Node Js",
+        "Express",
+        "MongoDB",
+        "Mongoose",
+        "JWT authentication"
+      ],
+      "link": "https://quotes-client.onrender.com",
+      "achievements": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Fr. Conceicao Rodrigues College of Engineering, Mumbai",
+      "degree": "",
+      "fieldOfStudy": "Electronics and Computer Science",
+      "graduationDate": "",
+      "gpa": "9.22",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "Sheth Vidya Mandir Junior College of Science, Vasai",
+      "degree": "",
+      "fieldOfStudy": "12th - MSBHSE",
+      "graduationDate": "",
+      "gpa": "",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "Sheth Vidya Mandir English High School, Vasai",
+      "degree": "",
+      "fieldOfStudy": "10th - CBSE",
+      "graduationDate": "",
+      "gpa": "",
+      "relevantCoursework": []
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Full stack web development",
+      "issuingOrganization": "Udemy",
+      "issueDate": "",
+      "expirationDate": "",
+      "credentialId": ""
+    },
+    {
+      "name": "Cognitive Application",
+      "issuingOrganization": "TechAnalogy",
+      "issueDate": "",
+      "expirationDate": "",
+      "credentialId": ""
+    },
+    {
+      "name": "Front end Web dev",
+      "issuingOrganization": "Skill Vertex",
+      "issueDate": "",
+      "expirationDate": "",
+      "credentialId": ""
+    },
+    {
+      "name": "Cyber Security Fundamentals and Job Application Essentials",
+      "issuingOrganization": "IBM Skillsbuild",
+      "issueDate": "",
+      "expirationDate": "",
+      "credentialId": ""
+    },
+    {
+      "name": "8051 Microcontroller course",
+      "issuingOrganization": "Bharat Acharya Education",
+      "issueDate": "",
+      "expirationDate": "",
+      "credentialId": ""
+    }
+  ]
+}
+```

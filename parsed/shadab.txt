@@ -1,0 +1,206 @@
+```json
+{
+  "personalInfo": {
+    "name": "MD SHADAB KALIM",
+    "email": "shadabkalim375@gmail.com",
+    "phone": "+91-8340571535",
+    "location": {
+      "city": "Ranchi",
+      "state": "Jharkhand",
+      "country": "India"
+    },
+    "summary": ""
+  },
+  "links": {
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "otherProfessionalLinks": []
+  },
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "skills": [
+        "C++",
+        "Java",
+        "Python",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Typescript"
+      ]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "skills": [
+        "React.js",
+        "Node.js",
+        "Next.js",
+        "React Native",
+        "Flask"
+      ]
+    },
+    {
+      "category": "Database Management Tools",
+      "skills": [
+        "MySQL",
+        "MongoDB",
+        "Prisma",
+        "DrizzleORM"
+      ]
+    },
+    {
+      "category": "Other Tools",
+      "skills": [
+        "Websockets",
+        "Docker",
+        "CICD Pipeline",
+        "Github Actions",
+        "AWS"
+      ]
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "Dover Corporation",
+      "position": "SDE Intern",
+      "location": "Bengaluru, India",
+      "startDate": "May 2024",
+      "endDate": "July 2024",
+      "duration": "2 months",
+      "responsibilities": [
+        "Developed a robust web application using Next.js with Typescript and Tailwind CSS, automating the addition of new distributors to eliminate the need for manual database modifications.",
+        "Implemented advanced optimization techniques like debouncing, server-side rendering, lazy loading, and infinite scrolling to enhance performance and user experience.",
+        "Integrated the frontend with a Node.js backend, and wrote CI/CD pipeline for both backend and frontend using GitHub Actions to deploy on AWS."
+      ],
+      "achievements": []
+    },
+    {
+      "company": "Blaze AI",
+      "position": "Fullstack Developer",
+      "location": "San Francisco",
+      "startDate": "March 2024",
+      "endDate": "May 2024",
+      "duration": "2 months",
+      "responsibilities": [
+        "Implemented automated Twitter outreach strategies using Flask and GraphQL, leveraging the Twitter API for automated following and direct messaging to enhance engagement using cron-job on AWS Lambda.",
+        "Implemented a Twitter integration flow for Blaze, developed a Chrome extension using JavaScript (Manifest v3) that redirects users to Twitter and securely sends request headers to the backend.",
+        "Designed and integrated a user interface for the sequences page in Next.js and Material UI, seamlessly coordinating user onboarding steps with Flask backend functionality for an optimized user experience."
+      ],
+      "achievements": []
+    },
+    {
+      "company": "Doge Capital",
+      "position": "Web3 Developer",
+      "location": "Dubai, UAE",
+      "startDate": "Oct 2023",
+      "endDate": "Dec 2023",
+      "duration": "3 months",
+      "responsibilities": [
+        "Developed various decentralized applications for clients utilizing Next.js, Tailwind CSS, Solidity, Hardhat, and Ethers.js while meeting strict deadlines.",
+        "Implemented SEO best practices through meticulous metadata optimization, significantly enhancing the search engine visibility and ranking of existing company websites."
+      ],
+      "achievements": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "Deployment Platform",
+      "description": "",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": [
+        "Next.js",
+        "PostgreSQL",
+        "Prisma",
+        "Kafka",
+        "AWS"
+      ],
+      "link": "",
+      "achievements": [
+        "Designed and developed a dynamic deployment platform utilizing Next.js, empowering users to deploy their websites seamlessly from GitHub repositories onto random sub-domains.",
+        "Leveraged AWS ECS to execute build commands, storing resultant websites dist in AWS S3 while utilizing AWS ECR for Docker image distribution, ensuring efficient deployment workflows.",
+        "Implemented Kafka for real-time deployment log management, supported by PostgreSQL for persistent storage, and ClickhouseDB for streamlined data consumption, enhancing platform performance and scalability."
+      ]
+    },
+    {
+      "name": "AI Mock Interviewer",
+      "description": "",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": [
+        "Next.js",
+        "PostgreSQL",
+        "DrizzleORM",
+        "Gemini"
+      ],
+      "link": "",
+      "achievements": [
+        "Developed a full-stack AI real-time mock interviewer application using Next.js and Gemini API with frontend design optimized with Tailwind CSS and Shadcn UI.",
+        "Implemented secure authentication via Clerk and employed PostgreSQL and DrizzleORM for efficient data storage, facilitating immediate feedback at interview conclusion.",
+        "Integrated video and microphone functionalities to enable AI-driven real-time assessment, empowering users to record responses and revisit past interviews for further engagement."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bits Pilani K.K Birla Goa Campus",
+      "degree": "B.E. Computer Science Engineering",
+      "fieldOfStudy": "Computer Science Engineering",
+      "graduationDate": "2025",
+      "gpa": "3.92",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "Jawahat Vidya Mandir, Shyamali",
+      "degree": "12th Std. CBSE",
+      "fieldOfStudy": "Science",
+      "graduationDate": "",
+      "gpa": "96.2%",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "Jawahat Vidya Mandir, Shyamali",
+      "degree": "10th Std. CBSE",
+      "fieldOfStudy": "Science",
+      "graduationDate": "",
+      "gpa": "95.8%",
+      "relevantCoursework": []
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google Cloud Digital Leader",
+      "issuingOrganization": "Google Cloud",
+      "issueDate": "",
+      "expirationDate": "",
+      "credentialId": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "Winner, Quark Web Development Hackathon",
+      "issuer": "BITS Pilani, Goa Campus",
+      "date": "2024",
+      "description": ""
+    },
+    {
+      "title": "Regional Topper (Twice), MIMAMSA – Goa-Karnataka region, IISER Pune",
+      "issuer": "IISER Pune",
+      "date": "",
+      "description": ""
+    }
+  ],
+  "publications": []
+}
+```

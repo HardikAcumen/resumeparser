@@ -1,0 +1,165 @@
+```json
+{
+  "personalInfo": {
+    "name": "MD ISTRKHAR ANSARI",
+    "email": "ansari.istakhar.md@gmail.com",
+    "phone": "+91-9508629990",
+    "location": {
+      "city": "Bangalore",
+      "state": "India",
+      "country": "India"
+    },
+    "summary": "Software Engineer with experience in developing scalable and efficient financial services using Java and Spring Boot."
+  },
+  "links": {
+    "linkedin": "/♂nednLinkedin",
+    "github": "/gtbGithub",
+    "portfolio": "",
+    "otherProfessionalLinks": []
+  },
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "skills": ["Java", "JavaScript", "TypeScript", "Python", "C++"]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "skills": ["Spring Boot", "Node js", "Express JS", "React JS"]
+    },
+    {
+      "category": "Databases & Storage",
+      "skills": ["PostgreSQL", "MongoDB", "Redis cache", "AWS S3", "AWS lambda"]
+    },
+    {
+      "category": "Miscellaneous",
+      "skills": ["HTML", "CSS", "HTML5", "Git", "Github"]
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "PhonePe",
+      "position": "Java Developer",
+      "location": "Bengaluru, India",
+      "startDate": "July 2024",
+      "endDate": "Ongoing",
+      "duration": "4 months",
+      "responsibilities": [
+        "Engineered Seamless Financial Integrations",
+        "Optimized Backend Performance",
+        "Collaborative Innovation"
+      ],
+      "achievements": []
+    },
+    {
+      "company": "F22 Labs",
+      "position": "Backend Developer",
+      "location": "Chennai, India",
+      "startDate": "Dec 2023",
+      "endDate": "July 2024",
+      "duration": "8 months",
+      "responsibilities": [
+        "Implemented a chrome extension WhatsApp send later",
+        "Implemented and optimized WhatsApp API functionality",
+        "Managed and optimized data storage using MongoDB"
+      ],
+      "achievements": []
+    },
+    {
+      "company": "Wigzo Technology",
+      "position": "Software Engineer",
+      "location": "Delhi, India",
+      "startDate": "Mar 2023",
+      "endDate": "Aug 2023",
+      "duration": "6 months",
+      "responsibilities": [
+        "Designed, developed, and maintained multiple Micro-services using spring-Boot",
+        "Collaborated with cross-functional teams to design RESTful APIs",
+        "Spearheaded microservices adoption with Docker"
+      ],
+      "achievements": ["30% increase in system scalability"]
+    },
+    {
+      "company": "Lead School",
+      "position": "Software Development Engineer I",
+      "location": "Bangalore, India",
+      "startDate": "Oct 2021",
+      "endDate": "Mar 2023",
+      "duration": "16 months",
+      "responsibilities": [
+        "Enhanced the backend of Lead School Teacher and Parent apps",
+        "Mastered technical skills in Java, Spring Boot, Kafka, PostgreSQL, MongoDB, Redis, and IOT",
+        "Designed and optimized numerous APIs to boost performance"
+      ],
+      "achievements": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "Spotify Clone",
+      "description": "A React.js application that mimics the popular music streaming service Spotify",
+      "role": "Developer",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["ReactJs", "Material UI", "CSS", "JavaScript", "Spotify APIs"],
+      "link": "",
+      "achievements": []
+    },
+    {
+      "name": "Anime Review | Demo",
+      "description": "A React.js application that allows users to review and rate anime shows",
+      "role": "Developer",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["React Js", "Express JS", "JavaScript", "CSS", "Google OAuth authentication"],
+      "link": "",
+      "achievements": []
+    },
+    {
+      "name": "FIRE DETECTION SYSTEM | International NASA Space App Challenge 2020",
+      "description": "A forest fire detection system using OpenCV technology to identify and respond to fires in their early stages",
+      "role": "Developer",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["IOT", "NumPy", "urllib", "pyttsx3", "Speech Recognition", "Arduino Uno"],
+      "link": "",
+      "achievements": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Academy Of Technology",
+      "degree": "B.Tech.",
+      "fieldOfStudy": "Information Technology",
+      "graduationDate": "2021",
+      "gpa": "9.02",
+      "relevantCoursework": []
+    }
+  ],
+  "certifications": [],
+  "languages": [],
+  "awards": [
+    {
+      "title": "Secure global rank 22 on jan long challenge at Codechef",
+      "issuer": "Codechef",
+      "date": "Jan",
+      "description": ""
+    },
+    {
+      "title": "Gold batch in Problem solving in Hacker Rank",
+      "issuer": "Hacker Rank",
+      "date": "",
+      "description": ""
+    },
+    {
+      "title": "Got top 10 in NASA Space app challenge 2020 (International level)",
+      "issuer": "NASA",
+      "date": "2020",
+      "description": ""
+    }
+  ],
+  "publications": []
+}
+```

@@ -1,0 +1,160 @@
+```json
+{
+  "personalInfo": {
+    "name": "Laxmikant Sunil Mahindraakar",
+    "email": "laxmikantmahindrakar10000@gmail.com",
+    "phone": "+91-8767369115",
+    "location": {
+      "city": "Sangli",
+      "state": "Maharashtra",
+      "country": "India"
+    },
+    "summary": "Software Engineer Intern with experience in developing fully responsive webpages and mobile applications using various technologies like ReactJS, ExpressJS, NodeJS, MongoDB, HTML, CSS, JavaScript, PHP, etc."
+  },
+  "links": {
+    "linkedin": "Linkedin",
+    "github": "Github",
+    "portfolio": "",
+    "otherProfessionalLinks": []
+  },
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "skills": ["Java", "C++", "Python", "JavaScript", "PHP"]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "skills": ["ReactJS", "NodeJS", "ExpressJS", "Bootstrap", "Material UI"]
+    },
+    {
+      "category": "Version Control",
+      "skills": ["Git", "Github"]
+    },
+    {
+      "category": "Other Tools",
+      "skills": ["Postman", "Hoppscotch", "Jest", "Jira"]
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "ITJobxs.com",
+      "position": "SDE Intern",
+      "location": "Remote",
+      "startDate": "April 2024",
+      "endDate": "August 2024",
+      "duration": "",
+      "responsibilities": [
+        "Worked on the Design and Development part of fully responsive webpage for particular section of Section of an ITJOBXS.",
+        "Worked on the User-Verification/Authentication Challenge of detecting and removing the fake bots.",
+        "Worked on the Integrated Recaptcha with the website - Google Layer of Protection for the websites."
+      ],
+      "achievements": []
+    },
+    {
+      "company": "DkTechnos.in",
+      "position": "WordPress Intern",
+      "location": "On-Site",
+      "startDate": "June 2022",
+      "endDate": "August 2022",
+      "duration": "",
+      "responsibilities": [
+        "Learned about Website Working, SEO, Website Optimization, Plugins, etc.",
+        "Created a FactsRain Project which gives various facts about the world, nature, animals, human brain,etc."
+      ],
+      "achievements": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "Smart GPS Library",
+      "description": "A Completely Responsive Library Website to automate our Government Polytechnic, Solapur college.",
+      "role": "Developer",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["ReactJS", "ExpressJS", "NodeJS", "MongoDB", "BootStrap", "Material UI", "HTML", "CSS"],
+      "link": "Github",
+      "achievements": ["Reduced the manual work of library operations."]
+    },
+    {
+      "name": "FactsRain Website",
+      "description": "A Website using Wordpress which focuses on the content of facts around the world.",
+      "role": "Developer",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["HTML", "CSS", "JavaScript", "WordPress", "PHP", "MySQL"],
+      "link": "",
+      "achievements": ["Visitors can also play quizzes and watch videos about particular facts."]
+    },
+    {
+      "name": "MSBTE Paper Downloader",
+      "description": "A Mobile App and Website to easily access MSBTE papers and download it.",
+      "role": "Developer",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["HTML", "CSS", "JavaScript", "Python", "Android", "MySQL"],
+      "link": "Github",
+      "achievements": ["Resolved the problem faced by MSBTE students and teachers to download answer and question papers at one place."]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Walchand College of Engineering",
+      "degree": "B.Tech. (CSE)",
+      "fieldOfStudy": "Computer Science and Engineering",
+      "graduationDate": "2026",
+      "gpa": "8.1",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "Government Polytechnic, Solapur",
+      "degree": "Diploma (CM)",
+      "fieldOfStudy": "Computer Management",
+      "graduationDate": "2023",
+      "gpa": "95.54%",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "Shri Siddheshwar Eng. Med. High School",
+      "degree": "SSC",
+      "fieldOfStudy": "Science and Mathematics",
+      "graduationDate": "2020",
+      "gpa": "91.20%",
+      "relevantCoursework": []
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "3x Winner, 4x Runner-up, 1x Top10 in State and National Level Coding Contests",
+      "issuer": "",
+      "date": "",
+      "description": ""
+    },
+    {
+      "title": "Invited as a Expert to give Expert Lecture on Mobile Application Development Using Java by Government Polytechnic, Solapur",
+      "issuer": "",
+      "date": "",
+      "description": ""
+    },
+    {
+      "title": "Taught over 500+ MSBTE Diploma Students on various Technical and Programming Courses",
+      "issuer": "",
+      "date": "",
+      "description": ""
+    }
+  ],
+  "publications": [],
+  "achievements": []
+}
+```
+
+Note: Some fields like 'achievements', 'startdate', 'enddate', 'duration' are empty in the template as there's limited information in the resume about them.

@@ -1,0 +1,157 @@
+```json
+{
+  "personalInfo": {
+    "name": "MATHEW PAYAPILL Y",
+    "email": "payapillymathew06@gmail.com",
+    "phone": "+91 9757169894",
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India"
+    },
+    "summary": "My goal is to apply my academic knowledge and skills to make a substantial impact at an innovative organization. I aim to work on cutting-edge projects, collaborate with diverse teams, and continuously improve my expertise."
+  },
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/mathewpayapilly/",
+    "github": "https://github.com/mathew17062002",
+    "portfolio": "",
+    "otherProfessionalLinks": []
+  },
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "skills": ["C", "Python", "HTML", "CSS", "SQL"]
+    },
+    {
+      "category": "Other Skills",
+      "skills": ["Excel", "Power BI", "OOPS Concepts", "Canva", "Solidworks"]
+    },
+    {
+      "category": "Languages",
+      "skills": ["English", "Hindi", "Malayalam"]
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "Younity.in",
+      "position": "Sales and Marketing Intern",
+      "location": "Remote",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "responsibilities": ["Increase course sales and boost brand visibility"],
+      "achievements": []
+    },
+    {
+      "company": "DFY Content",
+      "position": "Graphic Designer Intern",
+      "location": "Remote",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "responsibilities": ["Craft a variety of content, including posts, videos, and advertisements using Canva"],
+      "achievements": []
+    },
+    {
+      "company": "Intrainz Edutech",
+      "position": "Data Analytics Intern",
+      "location": "Remote",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "responsibilities": ["Manage large datasets using Power BI", "Create dashboards, connect them to various data sources, perform data cleaning and transformation for analysis"],
+      "achievements": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "Organ Donation Data Management System",
+      "description": "Implemented a web-based CRUD application to create a decentralized system for organ donation data management.",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["Blockchain", "Remix IDE", "Hyperledger Framework", "IPFS"],
+      "link": "",
+      "achievements": []
+    },
+    {
+      "name": "Virtual Desktop Assistant",
+      "description": "Developed a smart virtual desktop assistant for the core Windows platform that essentially works on voice-based commands to obtain basic system information and perform tasks.",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["Python", "pywhatkit", "pyttsx3", "pyautogui", "speech_recognition", "psutil"],
+      "link": "",
+      "achievements": []
+    },
+    {
+      "name": "Airport Management System",
+      "description": "Created an automated booking system for an airline company wherein the end-user can seamlessly view flight details, book tickets, and seats, and manage or cancel their booking.",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["HTML", "CSS", "Bootstrap", "PHP"],
+      "link": "",
+      "achievements": []
+    },
+    {
+      "name": "Smart Security Alarm System",
+      "description": "Designed a smart home automated system to ensure the safety and security of houses by alerting the end-users of thefts, unauthorized entries, gas leakages, and fires.",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "duration": "",
+      "technologies": ["Hardware components: Breadboard, Sensors - MQ6 gas Sensor, LDR, BC547 transistor, Buzzers, 9V battery, LED light, Jumper wires, Resistors"],
+      "link": "",
+      "achievements": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Fr. Conceicao Rodrigues College of Engineering",
+      "degree": "B.E.",
+      "fieldOfStudy": "Electronics and Computer Science",
+      "graduationDate": "Pursuing",
+      "gpa": "9.15",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "Thakur College of Engineering and Technology",
+      "degree": "HSC",
+      "fieldOfStudy": "Science",
+      "graduationDate": "2018-2020",
+      "gpa": "72.15%",
+      "relevantCoursework": []
+    },
+    {
+      "institution": "St. Francis ICSE School",
+      "degree": "SSC",
+      "fieldOfStudy": "Science",
+      "graduationDate": "2012-2018",
+      "gpa": "81.66%",
+      "relevantCoursework": []
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Professional Proficiency"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "Intermediate"
+    },
+    {
+      "language": "Malayalam",
+      "proficiency": "Native"
+    }
+  ],
+  "awards": [],
+  "publications": []
+}
+```
+Note: The start and end dates for work experience, projects, and education are not available in the original resume. Therefore, they are left blank in the JSON output.
